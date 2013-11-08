@@ -1,0 +1,1 @@
+Developer's use of the SDK is governed by the license in the applicable Adobe Terms of Service.
